@@ -1,0 +1,10 @@
+patch:
+  schema_list:
+    - schema: quick5
+    - schema: terra_pinyin
+    # - schema: luna_pinyin
+    # - schema: jyut6ping3
+  
+  switcher/+:
+    hotkeys/+:
+      - Alt+grave # Avoid conflict with Edge

@@ -1,0 +1,25 @@
+patch:
+  style/+:
+    color_scheme: mint_light_blue
+    font_face: 'Apple Color Emoji, LXGW WenKai, PingFang HK'
+    label_font_face: 'LXGW WenKai Mono, Apple Color Emoji, PingFang HK'
+    comment_font_face: 'LXGW WenKai, PingFang HK'
+    font_point: 20
+    label_font_point: 20
+    comment_font_point: 18
+  # "preset_color_schemes/mint_light_blue/alpha": 0.9
+
+  app_options/+:
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.apple.Terminal:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+      # ascii_punct: true    # 中文状态输出英文标点(半角)
+    com.googlecode.iterm2:
+      ascii_mode: true
+    com.raycast.macos:
+      ascii_mode: true
+    com.apple.Xcode:
+      ascii_mode: true

@@ -1,2 +1,14 @@
 patch:
   __include: grammar:/hant
+
+  "pinyin_reverse_lookup/dictionary": terra_pinyin
+  "pinyin_input/dictionary": terra_pinyin
+
+  abc_segmentor:
+    extra_tags:
+      - reverse_lookup
+
+  reverse_lookup:
+    tags: [pinyin]
+    dictionary: terra_pinyin
+    overwrite_comment: true
