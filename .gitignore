@@ -1,0 +1,7 @@
+# ignore build files
+/build/
+/installation.yaml
+/user.yaml
+/sync/
+/backup/
+*.userdb*
