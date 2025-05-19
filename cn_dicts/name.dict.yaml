@@ -7,6 +7,9 @@
 name: name
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 季伯	0
 季伯長	0

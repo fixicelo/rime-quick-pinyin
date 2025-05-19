@@ -2,6 +2,9 @@
 name: place
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 四道橋	3
 橋戶營	0

@@ -6,6 +6,9 @@
 name: computer
 version: "2024-07-19"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 入參	50
 出參	10

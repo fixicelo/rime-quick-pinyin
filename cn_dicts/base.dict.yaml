@@ -1891,6 +1891,9 @@
 name: base
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 # +_+
 啊啊	552

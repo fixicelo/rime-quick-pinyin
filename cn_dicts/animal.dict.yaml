@@ -7,6 +7,9 @@
 name: animal
 version: "1.0"
 sort: by_weight
+columns:
+- text
+- weight
 use_preset_vocabulary: true
 ...
 阿拉斯加雪撬犬	0

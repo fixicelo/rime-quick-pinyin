@@ -7,6 +7,9 @@
 name: food
 version: "1.0"
 sort: by_weight
+columns:
+- text
+- weight
 use_preset_vocabulary: false
 ...
 艾葉生薑煨雞蛋	0

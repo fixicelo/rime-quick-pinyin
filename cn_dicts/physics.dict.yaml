@@ -2,6 +2,9 @@
 name: poetry
 version: "2013.11.21"
 sort: by_weight
+columns:
+- text
+- weight
 use_preset_vocabulary: true
 ...
 

@@ -6,6 +6,9 @@
 name: inputmethod
 version: "2024-07-13"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 打詞	0
 朙月拼音	2

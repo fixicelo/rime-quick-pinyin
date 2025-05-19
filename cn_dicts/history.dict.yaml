@@ -7,6 +7,9 @@
 name: history
 version: "1.0"
 sort: by_weight
+columns:
+- text
+- weight
 use_preset_vocabulary: false
 ...
 愛新覺羅福臨	2

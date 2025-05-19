@@ -6,6 +6,9 @@
 name: chess
 version: "2024-07-13"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 #象棋
 王天一	183

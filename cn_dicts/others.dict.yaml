@@ -7,6 +7,9 @@
 name: others
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 ##### 容错词
 # 一些口语读音

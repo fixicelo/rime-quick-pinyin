@@ -6,6 +6,9 @@
 name: composite
 version: "2024-07-19"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 受人關注	69
 受人唾棄	9

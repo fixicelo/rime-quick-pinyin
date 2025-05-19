@@ -19,6 +19,9 @@
 name: tencent
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 # +_+
 上一世	0

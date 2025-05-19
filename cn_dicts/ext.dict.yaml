@@ -13,6 +13,9 @@
 name: ext
 version: "2024-05-21"
 sort: by_weight
+columns:
+- text
+- weight
 ...
 # +_+
 姓鈄	1

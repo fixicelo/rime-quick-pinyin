@@ -7,6 +7,9 @@
 name: sport
 version: "1.0"
 sort: by_weight
+columns:
+- text
+- weight
 use_preset_vocabulary: true
 ...
 阿昌塔	0
